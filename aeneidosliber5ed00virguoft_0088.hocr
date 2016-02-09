@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneidosliber5ed00virguoft_0088.png"; bbox 0 0 1661 2519; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 572 1080 1268 1226">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 572 1080 1268 1226">
+     <span class='ocr_line' id='line_1_1' title="bbox 810 1080 1070 1129; baseline -0.008 -13"><span class='ocrx_word' id='word_1_1' title='bbox 810 1080 1023 1126; x_wconf 65' lang='lat' dir='ltr'>etamhtfflge:</span> <span class='ocrx_word' id='word_1_2' title='bbox 1066 1123 1070 1129; x_wconf 33' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 572 1151 1268 1177; baseline 0.004 -8"><span class='ocrx_word' id='word_1_3' title='bbox 572 1151 709 1170; x_wconf 74' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_4' title='bbox 734 1152 770 1170; x_wconf 73' lang='lat' dir='ltr'>BV</span> <span class='ocrx_word' id='word_1_5' title='bbox 793 1151 819 1170; x_wconf 91' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_6' title='bbox 845 1152 866 1177; x_wconf 83' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_7' title='bbox 893 1152 983 1176; x_wconf 68' lang='lat' dir='ltr'><strong>CLAV,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1009 1153 1076 1171; x_wconf 72' lang='lat' dir='ltr'><strong>M-A.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1104 1153 1169 1172; x_wconf 79' lang='grc' dir='ltr'>ΛΝΒ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1193 1153 1268 1172; x_wconf 81' lang='lat' dir='ltr'>soNS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 690 1206 1147 1226; baseline 0.004 -2"><span class='ocrx_word' id='word_1_11' title='bbox 690 1206 733 1224; x_wconf 83' lang='grc' dir='ltr'>ΛΤ</span> <span class='ocrx_word' id='word_1_12' title='bbox 757 1206 823 1225; x_wconf 69' lang='lat' dir='ltr'>THE.</span> <span class='ocrx_word' id='word_1_13' title='bbox 843 1206 1028 1225; x_wconf 74' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1051 1207 1147 1226; x_wconf 71' lang='lat' dir='ltr'>PRssss.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
